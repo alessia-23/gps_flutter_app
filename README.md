@@ -2,6 +2,9 @@
 
 Este repositorio contiene la implementación de una aplicación móvil con servicios de **Geolocalización GPS nativa** utilizando **Flutter**. El desarrollo de este proyecto se realizó con asistencia de Inteligencia Artificial mediante la herramienta **Antigravity**, formando parte de un estudio comparativo integral de desarrollo de software asistido.
 
+## Link del video 
+https://www.tiktok.com/@alessiaperez87/video/7657372481535118600?is_from_webapp=1&sender_device=pc
+
 ## 📋 Contexto y Objetivo del Proyecto
 
 Este desarrollo se enmarca dentro de la evaluación práctica de geolocalización y herramientas generativas, cuyo objetivo principal es:
